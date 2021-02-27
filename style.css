@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+}
+#welcome{
+    opacity: 0.83;
+    background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+}
+html{
+    scroll-behavior:smooth;
+}
+#bio{
+    opacity: 0.83;
+    background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+}
